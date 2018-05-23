@@ -13,7 +13,7 @@ class Person
   
   def job=(title)
     
-    @title = title 
+    @job = title 
   end 
   
   def job 
